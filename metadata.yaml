@@ -1,0 +1,47 @@
+_repo: The-Greene-murder-case_72719
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Balcolm, Lowell Leroy
+    alias: Balcom, Lowell Leroy
+    birthdate: 1887
+    deathdate: 1938
+    gutenberg_agent_id: '56786'
+    url: http://www.gutenberg.org/2009/agents/56786
+creator:
+  author:
+    agent_name: Van Dine, S. S.
+    aliases:
+    - Dine, S. S. Van
+    - Dine, S.S. Van
+    birthdate: 1888
+    deathdate: 1939
+    gutenberg_agent_id: '55836'
+    url: http://www.gutenberg.org/2009/agents/55836
+    wikipedia:
+    - https://en.wikipedia.org/wiki/S._S._Van_Dine
+    - https://www.gutenberg.org/ebooks/author/9220
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72719'
+language: en
+pgterms:marc904: http://catalog.hathitrust.org/Record/000325330
+pgterms:marc905: 20240103120916vandine
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aNew York, NY :$bCharles Scribner''s Sons, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Vance, Philo (Fictitious character) -- Fiction'
+- !lcsh 'Private investigators -- New York (State) -- New York -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Greene murder case
+url: http://www.gutenberg.org/ebooks/72719
